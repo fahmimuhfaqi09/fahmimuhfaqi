@@ -1,0 +1,19 @@
+footer{
+background-color: #1a1717ec;
+height: 120px;
+padding: 40px;
+}
+.logo{
+    float: left;
+    font-size: 27px;
+    color: aliceblue;
+   
+
+}
+.list-footer{
+float: right;
+color: aliceblue;
+}
+.list-footer li{
+    padding-bottom:13px ;
+}
